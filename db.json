@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": "24790",
+      "image":"https://avatars.mds.yandex.net/i?id=be99b02a26af11a62fc921186deb50def9cb0979-7751770-images-thumbs&n=13"
+    },
+
+    {
+      "id": 2,
+      "name": "McLaren",
+      "price": "15000",
+      "image":"https://avatars.mds.yandex.net/i?id=07eb3028c7cdf677dc4dcd94e0586bbac8053740-9044040-images-thumbs&n=13"
+    },
+
+    {
+      "id": 3,
+      "name": "Lamborhhini",
+      "price": "10000",
+      "image":"https://avatars.mds.yandex.net/i?id=9a8141853d5194813914d37c0f24650ca359279f-3834231-images-thumbs&n=13"
+    }
+  ]
 }
